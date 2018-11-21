@@ -31,7 +31,7 @@ const Home = () => {
             </ul>
             <li>
               Write a function to return the names of the genres from{" "}
-              <a href="https://developers.themoviedb.org/3/movies/get-movie-list">
+              <a href="https://developers.themoviedb.org/3/movies/get-movie-details">
                 Get movies
               </a>{" "}
               <strong>(10 points)</strong>
