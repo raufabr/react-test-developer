@@ -20,7 +20,7 @@ const Home = () => {
             </li>
             <li>
               The movies aren't showing the original language properly. Replace
-              the values of language field as follows:{" "}
+              the values of language field as follows:
               <strong>(5 points)</strong>
             </li>
             <ul>
@@ -35,17 +35,6 @@ const Home = () => {
                 Get movies
               </a>{" "}
               <strong>(10 points)</strong>
-            </li>
-            <li>
-              <strong>Bonus challenge:</strong> Make endless scrolling a
-              possibility. Don't just show the first 20 pages, when the user
-              gets to the bottom of the page, scroll the next page.{" "}
-              <strong>(10 points)</strong>
-            </li>
-            <li>
-              When the user clicks on a movie, they should get a list of
-              recommendation of other movies on the Recommendations tab.{" "}
-              <strong>(20 points)</strong>
             </li>
           </ol>
         </p>
